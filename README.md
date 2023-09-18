@@ -1,2 +1,2 @@
 # JavaScript-Projects
-Here I'm shring JavaScript basic and API based projects.
+Here I'm sharing JavaScript basic and API-based projects.

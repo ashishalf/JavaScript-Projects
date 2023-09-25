@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: url("./figma.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+#figma-icon {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    transition: 0.2s ease-out;
+     pointer-events: none; 
+}
+
+#figma-icon img {
+    filter: drop-shadow(0 0 20px rgba(1, 1, 42, 0.2));
+}

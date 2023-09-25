@@ -1,5 +1,3 @@
-
-
 let figmaIcon = document.getElementById("figma-icon");
 
 function move(e) {

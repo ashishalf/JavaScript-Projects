@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+}
+.container{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.header{
+    /* font-size: 32px; */
+    color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+img{
+    border-radius: 3px;
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    object-fit: cover;
+}
